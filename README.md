@@ -1,1 +1,1 @@
-I just store my .nbs files here
+This isn't a "real" repository, I just store some silly stuff here
